@@ -1,0 +1,22 @@
+# KiCad auto-save and lock files
+*-backups/
+*.lck
+~*
+
+# KiCad internal history
+.history/
+
+# 3D files
+*.3dshapes/
+*.pcb3d
+*.step
+*.stp
+*.wrl
+
+# KiCad cache and local settings
+fp-info-cache
+*.kicad_prl
+
+# OS files
+.DS_Store
+Thumbs.db
