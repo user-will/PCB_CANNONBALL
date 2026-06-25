@@ -32,7 +32,7 @@ The big pitch: pull a single-cell LiPo or Li-ion from an old vape, plug it into 
 | 3 | MAX17048 alert | Active-low interrupt when battery is low |
 | 4 | SK6812 data | Addressable LED data line |
 | 5 | LED enable (MOSFET) | Pull **low** to enable LEDs, high to disable |
-| — | Charge rate select | High = 500 mA charge current, low/float = 100 mA default |
+| 10 | BQ24075 EN1 (charge rate) | Pull **high** to increase charge current from 100 mA to 500 mA |
 
 ---
 
