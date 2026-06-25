@@ -25,6 +25,16 @@ The big pitch: pull a single-cell LiPo or Li-ion from an old vape, plug it into 
 
 ---
 
+## Power
+
+| Rail | Source | Voltage | Notes |
+|------|--------|---------|-------|
+| USB-C | External | 5 V nominal, **6 V max** | Limited by AP2112K-3.3 LDO max input. Do not exceed 6 V on the 5 V pins or USB input. |
+| 5V pin (J5/J6) | External or VBUS | 5 V nominal, **6 V max** | Same rail as USB VBUS — feeds the LDO and charger directly. |
+| 3V3 pin (J4/J6) | AP2112K-3.3 LDO | **3.3 V exactly** | If powering the board externally via the 3V3 pin (bypassing the LDO), supply a regulated 3.3 V. The ESP32 and all peripherals run at 3.3 V with a ±0.3 V tolerance — do not exceed 3.6 V or drop below 3.0 V. |
+
+---
+
 ## Pin Reference
 
 | GPIO | Function | Notes |
