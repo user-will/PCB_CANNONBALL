@@ -30,7 +30,7 @@
 	(fp_line (start -4.00 -0.82) (end 4.00 -0.82) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.00 -0.82) (end 4.00 4.63) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.00 4.63) (end -4.00 4.63) (layer F.CrtYd) (width 0.05))
-	(model "/home/will/KiCad/ESP32C3_MEGA/jlcpcb.3dshapes/CONN-TH_2P-P2.00_XUNPU_WAFER-PH2.0-2PLB.wrl"
+	(model ""
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

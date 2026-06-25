@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32C3_MEGA.kicad_pro",
+    "filename": "CANNONBALL.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -677,7 +677,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ESP32C3_MEGA.kicad_sch",
+        "filename": "CANNONBALL.kicad_sch",
         "name": "Root",
         "uuid": "6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
       }

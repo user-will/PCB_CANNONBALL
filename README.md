@@ -1,4 +1,4 @@
-# ESP32C3 MEGA
+# REIL INDUSTRIAL - CANNONBALL
 
 A feature-packed ESP32-C3 development board built around the **ESP32-C3-WROOM-02-N4**, designed to be the last board you need for any project — smart home device, RC car, wearable, or anything else you can dream up.
 
@@ -69,7 +69,7 @@ The big pitch: pull a single-cell LiPo or Li-ion from an old vape, plug it into 
 
 1. Clone or download this repo
 2. Open KiCad and select **File → Open Project**
-3. Navigate to the repo folder and open `ESP32C3_MEGA.kicad_pro`
+3. Navigate to the repo folder and open `CANNONBALL.kicad_pro`
 
 All schematic symbols and footprints are either embedded in the project files or included in the `jlcpcb.pretty/` and `jlcpcb.kicad_sym` local libraries — no additional library setup required.
 

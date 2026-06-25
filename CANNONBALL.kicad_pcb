@@ -500,7 +500,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1b16be9c-fd68-4f05-80c7-84a4b356b0cf")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -659,7 +659,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9614d14e-b446-429e-b91b-d687ce6bdaf3")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -841,7 +841,7 @@
 		)
 		(path "/0664d20f-5c2e-40ce-84c9-ab38c6a1725f")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -1026,7 +1026,7 @@
 		)
 		(path "/6ce90060-fd12-4eb8-881d-bb5d4fc54377")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -1246,7 +1246,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ec70c121-caca-42a9-9b0c-71f73790e3fd")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1405,7 +1405,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c53604a-7f5d-4188-a6b3-50abec7d5230")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1821,7 +1821,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8252bb96-283c-42d3-a332-ef5461c5d3d3")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1980,7 +1980,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/33713df6-b1c8-4616-9fed-3cf0a2d9fd12")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2139,7 +2139,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/39994c35-67ad-41fd-bc0b-ad5402acf438")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2298,7 +2298,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e7b593d2-7532-4892-ad21-246b53ec1eaf")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2457,7 +2457,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7d09f120-3b91-4b74-8bc6-2bd348aaedc6")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2616,7 +2616,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fef60cca-0cb8-4da1-b302-5a3093dd33e2")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2772,7 +2772,7 @@
 		)
 		(path "/945b0099-20d6-4959-bf89-06716e86a4e5")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2974,7 +2974,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/572530f5-2eab-453f-9824-16faed1fc557")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3137,7 +3137,7 @@
 		(property ki_fp_filters "Sensirion?DFN*1.5x1.5mm*P0.8mm*SHT4x*")
 		(path "/af24e740-ded9-43f5-8051-b8be82a47fae")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3415,7 +3415,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/600465af-1b22-4288-b1bd-c13dac03eaf9")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3574,7 +3574,7 @@
 		(property ki_fp_filters "LGA*3x2.5mm*P0.5mm*LayoutBorder3x4y*")
 		(path "/44a7fb3c-ed8d-40f7-9f6b-b6c84a9497f8")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3925,7 +3925,7 @@
 		(property ki_fp_filters "DFN*1EP*3x3mm*P0.5mm*")
 		(path "/dea5ba1a-6d2f-4a48-8b84-ba8d5db4295e")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -4162,7 +4162,7 @@
 		(property ki_fp_filters "VQFN*1EP*3x3mm*P0.5mm*")
 		(path "/62b1280c-4f7f-49a3-babf-021bef7212aa")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5055,7 +5055,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9f309f8d-706d-4f03-a14c-c4bec0a2af75")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5214,7 +5214,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/df32aec7-3ef2-42e8-a28f-77447e86ec63")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5373,7 +5373,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/98667ff0-5fd7-4f33-8c03-6d5139854bed")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5530,7 +5530,7 @@
 		(property ki_fp_filters "*JST*SH*")
 		(path "/d7520f6c-89b0-41f8-b553-bf5bfdc4b88f")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5846,7 +5846,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bc121534-12a6-4f9e-8219-34a6b8c4d5d8")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5993,7 +5993,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/82e7aab3-1c50-44b3-8107-cdce8ff6ebfd")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6152,7 +6152,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/373d9691-6abe-4d80-938c-1365a3364463")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6596,7 +6596,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/010873a7-d82e-4f41-8dd9-dfdd8cf82cb1")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6755,7 +6755,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ca563a73-166c-4c5d-982c-61e2457460ab")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6937,7 +6937,7 @@
 		)
 		(path "/fbafe41e-9085-4c78-8f77-9ca5013534a2")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7192,7 +7192,7 @@
 		(property ki_fp_filters "*Header*JST*PH*")
 		(path "/613e99e3-c271-4f44-94f3-329b26429f57")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7416,7 +7416,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/33ba76b9-0548-43c9-adfb-f86837a72eb6")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7575,7 +7575,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9f337ab3-9f68-4a4a-9087-54edf019c312")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7722,7 +7722,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b67651f6-0f51-43fb-9315-aca8c3b4e1a3")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7881,7 +7881,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a8d223fd-8ec3-4d96-8114-796efa3e2b48")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8040,7 +8040,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/09fc5726-eaf5-45ac-a2ee-cf44ea491fdc")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8222,7 +8222,7 @@
 		)
 		(path "/0966588e-a5b1-47a2-8cd5-343a359e5dd5")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8636,7 +8636,7 @@
 		)
 		(path "/aed5fa69-f550-41d8-8bd2-38250f756a7f")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8909,7 +8909,7 @@
 		)
 		(path "/ea32f1fd-6551-4a6e-8a5c-6234fb4a02f1")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9179,7 +9179,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8e4d493f-24c1-4664-8b1c-68c043137832")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9389,7 +9389,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/37d363b1-260b-463e-9c15-829dc93de922")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9548,7 +9548,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/627be210-6ab2-453e-8c59-acdc3779aa3c")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9730,7 +9730,7 @@
 		)
 		(path "/70c8d196-d784-4791-9991-dad873164bae")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9987,7 +9987,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3fa6205e-5af0-42f0-b898-6996618ad6e5")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10192,7 +10192,7 @@
 		(property ki_fp_filters "SOT?23?5*")
 		(path "/0782c6a2-8432-4d96-a0b7-334008673398")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10471,7 +10471,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/13d37a37-046a-49c5-92c9-8d0f949fa280")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -14553,7 +14553,7 @@
 		(property ki_fp_filters "ESP32?C3*WROOM?02*")
 		(path "/c9f24f6a-6a03-4f65-a0f1-91cb937d805a")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15476,7 +15476,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/342cf3a1-b4e0-443b-8090-bd8adf2d67b7")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15641,7 +15641,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/089fdc60-d527-412a-ad13-7572821d3d30")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15795,7 +15795,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1b2db792-dde7-4e21-8615-1d55d4607abf")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16087,7 +16087,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/258d4fd3-5d04-4711-a51c-b7718a6bb1cd")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16476,7 +16476,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/840528a3-a7d6-4479-b13c-17cca8016f77")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16641,7 +16641,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f56b2662-a9af-4ed4-a008-52c1afadc419")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16806,7 +16806,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8f3a26fe-ca4f-4906-84c7-71d01775114f")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16971,7 +16971,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/6a6afe46-30a0-469b-bcc0-1a3381bbfdf3")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17340,7 +17340,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/367c61a0-3287-4f54-89b5-28bd4f8f276b")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17505,7 +17505,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6b20071d-3fbb-4c71-8ce2-02276af7ffa8")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17670,7 +17670,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3c32c46b-87ab-4a98-83d5-c14a119880bd")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17835,7 +17835,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6b1634c7-91ba-40f3-9bc2-8d9c8580b095")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18000,7 +18000,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6ef7d71c-bb8b-4afd-856f-69e90412ea5d")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18165,7 +18165,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/231ae4c3-e342-4c3b-ab91-04e0b1059ba0")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18319,7 +18319,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/30177a66-2d4d-4053-9fdb-f64604958f09")
 		(sheetname "/")
-		(sheetfile "ESP32C3_MEGA.kicad_sch")
+		(sheetfile "CANNONBALL.kicad_sch")
 		(units
 			(unit
 				(name "A")

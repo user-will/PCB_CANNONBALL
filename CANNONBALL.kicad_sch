@@ -14199,7 +14199,7 @@
 			(uuid "04b8d974-0768-4bf1-a119-eb7c95c86256")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R12")
 					(unit 1)
@@ -14277,7 +14277,7 @@
 			(uuid "51170a29-80d3-4055-98e2-b7940d6349d5")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR021")
 					(unit 1)
@@ -14390,7 +14390,7 @@
 			(uuid "317ba010-d4b1-4bf0-aa36-a32ddecda02f")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "D1")
 					(unit 1)
@@ -14521,7 +14521,7 @@
 			(uuid "dbc50390-455d-4bd5-a743-bd6e9fe097b7")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U2")
 					(unit 1)
@@ -14600,7 +14600,7 @@
 			(uuid "b20e8041-a3eb-4118-ba3c-63fbfccc802f")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R5")
 					(unit 1)
@@ -14749,7 +14749,7 @@
 			(uuid "cc0ca506-30f6-41e4-83b7-6320c6d80f77")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "USB1")
 					(unit 1)
@@ -14830,7 +14830,7 @@
 			(uuid "184ac023-0541-4830-8736-74a1a83ea1c6")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C13")
 					(unit 1)
@@ -14908,7 +14908,7 @@
 			(uuid "4c2801af-3f4b-40ed-a476-aa2dc1d17237")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR012")
 					(unit 1)
@@ -15005,7 +15005,7 @@
 			(uuid "39c5081c-a8ef-4b94-8277-e21bf86ad099")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U1")
 					(unit 1)
@@ -15083,7 +15083,7 @@
 			(uuid "61cc2341-61e4-411d-a985-b25388d6c093")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR01")
 					(unit 1)
@@ -15164,7 +15164,7 @@
 			(uuid "b6de0cef-dc72-47dd-8d59-82fcced7b12c")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C22")
 					(unit 1)
@@ -15261,7 +15261,7 @@
 			(uuid "b5268f15-0e23-4fef-bcfb-31c185249e3f")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "J6")
 					(unit 1)
@@ -15340,7 +15340,7 @@
 			(uuid "ba8dd4f8-4338-4dbd-b205-f33e2dac6267")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R15")
 					(unit 1)
@@ -15418,7 +15418,7 @@
 			(uuid "9058804e-4bd9-4d28-9eb8-4479640424b6")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR018")
 					(unit 1)
@@ -15497,7 +15497,7 @@
 			(uuid "e8f6101d-0a4c-4e08-9ba3-6b809c66bb15")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R18")
 					(unit 1)
@@ -15585,7 +15585,7 @@
 			(uuid "35881541-bcef-45d9-aafe-a51da4452ef6")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "Q2")
 					(unit 1)
@@ -15663,7 +15663,7 @@
 			(uuid "2b5352ee-a54d-438a-9921-bc4374bc4ec2")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR014")
 					(unit 1)
@@ -15741,7 +15741,7 @@
 			(uuid "217a617a-1cd8-4613-baa3-824b545975a2")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR017")
 					(unit 1)
@@ -15819,7 +15819,7 @@
 			(uuid "6846430b-2cab-4917-ac7f-a8c0d9c93731")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR08")
 					(unit 1)
@@ -15916,7 +15916,7 @@
 			(uuid "5d0cd9b4-3fed-4d1d-9f8b-fe462f135f69")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "J5")
 					(unit 1)
@@ -15997,7 +15997,7 @@
 			(uuid "b49ace08-bdcc-4bcc-bf4d-3e915f55d8fb")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C19")
 					(unit 1)
@@ -16076,7 +16076,7 @@
 			(uuid "292ad1a4-f4d7-4a41-88cb-9e01013ded8e")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R16")
 					(unit 1)
@@ -16154,7 +16154,7 @@
 			(uuid "36616022-62a4-49f5-8113-6e0c7ec87ffd")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR013")
 					(unit 1)
@@ -16235,7 +16235,7 @@
 			(uuid "f673454f-eaf4-4d14-9d8a-15a193cbd97a")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C12")
 					(unit 1)
@@ -16315,7 +16315,7 @@
 			(uuid "619fec20-3872-4e1e-994f-5ce8a412166d")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R9")
 					(unit 1)
@@ -16394,7 +16394,7 @@
 			(uuid "af430b1e-11b8-47c7-9dad-bc1360f675d5")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R10")
 					(unit 1)
@@ -16475,7 +16475,7 @@
 			(uuid "9c9e41bf-ca60-4819-8501-5244fe2d3624")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C23")
 					(unit 1)
@@ -16556,7 +16556,7 @@
 			(uuid "f84f9f8a-88c5-4afa-af5e-e2d9532e0bd7")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C24")
 					(unit 1)
@@ -16635,7 +16635,7 @@
 			(uuid "55bf11cc-904e-4388-b0bf-de9076dfd7fb")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R3")
 					(unit 1)
@@ -16716,7 +16716,7 @@
 			(uuid "9186c5d1-1b00-4d80-ad1b-15b28cbfdff9")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C20")
 					(unit 1)
@@ -16835,7 +16835,7 @@
 			(uuid "abc3b91d-c0a0-4453-902a-df96839ab555")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U4")
 					(unit 1)
@@ -16913,7 +16913,7 @@
 			(uuid "0b88a72b-ae30-4248-bbf9-de90593308b3")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR04")
 					(unit 1)
@@ -16991,7 +16991,7 @@
 			(uuid "96a842cf-7914-4237-822d-402b7f472869")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR06")
 					(unit 1)
@@ -17072,7 +17072,7 @@
 			(uuid "b49e0af5-c618-4836-8b7c-c091d84a9b72")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C18")
 					(unit 1)
@@ -17150,7 +17150,7 @@
 			(uuid "c8e1108c-d1f1-445f-b182-2a6e013f6272")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR016")
 					(unit 1)
@@ -17229,7 +17229,7 @@
 			(uuid "8546c39d-3d55-4fdb-ab12-f11c892d3102")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R13")
 					(unit 1)
@@ -17309,7 +17309,7 @@
 			(uuid "576e75bf-0517-4220-9b07-ff18129a9e82")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "J3")
 					(unit 1)
@@ -17390,7 +17390,7 @@
 			(uuid "1c6662ec-1a1a-49fe-b760-cd80097cf726")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C21")
 					(unit 1)
@@ -17518,7 +17518,7 @@
 			(uuid "36c392ad-bf2b-4eea-8a98-37f825739e47")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U6")
 					(unit 1)
@@ -17610,7 +17610,7 @@
 			(uuid "c77c55ec-b3a0-433f-9afb-73f5d173312c")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U5")
 					(unit 1)
@@ -17690,7 +17690,7 @@
 			(uuid "3b87c671-8b42-431a-8fae-f5504992a276")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R6")
 					(unit 1)
@@ -17769,7 +17769,7 @@
 			(uuid "022d0acb-0a34-4ac1-a7d3-e82ce8685943")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R2")
 					(unit 1)
@@ -17894,7 +17894,7 @@
 			(uuid "6bf6b083-1fca-464e-b1c3-da5121a7c8d1")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "Q1")
 					(unit 1)
@@ -17975,7 +17975,7 @@
 			(uuid "267aa425-55bd-454f-9a7c-a220305a233d")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C14")
 					(unit 1)
@@ -18094,7 +18094,7 @@
 			(uuid "857b9747-e387-4875-b9f4-cbac1a104589")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "LED1")
 					(unit 1)
@@ -18172,7 +18172,7 @@
 			(uuid "97c7a923-8fca-4106-8452-52090f2260cd")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR09")
 					(unit 1)
@@ -18251,7 +18251,7 @@
 			(uuid "72987b8b-ad62-476e-8191-f304f3f77c60")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R7")
 					(unit 1)
@@ -18329,7 +18329,7 @@
 			(uuid "3acc92d4-8e73-4af9-bdf9-d1b65ebe6953")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR07")
 					(unit 1)
@@ -18408,7 +18408,7 @@
 			(uuid "372a2201-9d28-4ef6-8e52-bef0c0baf4b0")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R14")
 					(unit 1)
@@ -18489,7 +18489,7 @@
 			(uuid "88ac40c4-e6de-4d17-9dc9-e7ef65d053c3")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C1")
 					(unit 1)
@@ -18568,7 +18568,7 @@
 			(uuid "5b617cfa-c113-4aaf-afb4-6122495f4402")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R4")
 					(unit 1)
@@ -18660,7 +18660,7 @@
 			(uuid "4906992b-4f56-461e-b008-998811628cf2")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "D4")
 					(unit 1)
@@ -18739,7 +18739,7 @@
 			(uuid "b47b580a-227d-4e42-9731-e67343f650ab")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R8")
 					(unit 1)
@@ -18817,7 +18817,7 @@
 			(uuid "1bf32c25-f11c-4e22-bff3-053daefb5120")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR020")
 					(unit 1)
@@ -18897,7 +18897,7 @@
 			(uuid "a9d73c47-1945-440d-bbf6-c41565edd8b8")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "SW1")
 					(unit 1)
@@ -18978,7 +18978,7 @@
 			(uuid "0bb0c3ad-0499-4ca6-a882-8dd661d75bbd")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C10")
 					(unit 1)
@@ -19059,7 +19059,7 @@
 			(uuid "26fff8bc-912a-44cd-95cd-77730d181b4e")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C3")
 					(unit 1)
@@ -19140,7 +19140,7 @@
 			(uuid "14491360-eff0-426b-be2e-af6d0d294587")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C6")
 					(unit 1)
@@ -19221,7 +19221,7 @@
 			(uuid "7127b1b7-e630-4f5c-b2ce-f8e026c4b66c")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C9")
 					(unit 1)
@@ -19300,7 +19300,7 @@
 			(uuid "c027fc86-44fa-4d19-ada1-8b8d172ccf9b")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R17")
 					(unit 1)
@@ -19413,7 +19413,7 @@
 			(uuid "01d609b9-5a74-4e1e-898a-3c278f2d8f2f")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "F1")
 					(unit 1)
@@ -19511,7 +19511,7 @@
 			(uuid "fbb02cd9-37f7-4a75-92ad-708d112bb840")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U7")
 					(unit 1)
@@ -19592,7 +19592,7 @@
 			(uuid "ee864ca2-73e3-4c1e-a9c4-2b2484ef3579")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C2")
 					(unit 1)
@@ -19673,7 +19673,7 @@
 			(uuid "78fd0ecc-71da-4fe6-a9fb-2515027095dd")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C8")
 					(unit 1)
@@ -19751,7 +19751,7 @@
 			(uuid "2d53c5b2-8378-4240-8f79-f319e2fb21fe")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR022")
 					(unit 1)
@@ -19884,7 +19884,7 @@
 			(uuid "30cdfaca-6de4-4cae-9e16-a6a0487ae1c4")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U3")
 					(unit 1)
@@ -19965,7 +19965,7 @@
 			(uuid "0163f4be-1e9f-4ec0-a791-d34b0d416aec")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C7")
 					(unit 1)
@@ -20043,7 +20043,7 @@
 			(uuid "1cafbe17-9be1-417e-8932-ba246937eca9")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR011")
 					(unit 1)
@@ -20131,7 +20131,7 @@
 			(uuid "394748ae-1c39-48e4-86a0-32e2f72fb53b")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "J4")
 					(unit 1)
@@ -20209,7 +20209,7 @@
 			(uuid "43489cb4-2cb5-4e20-9caf-a6254c3e9c2d")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR05")
 					(unit 1)
@@ -20323,7 +20323,7 @@
 			(uuid "f1f3a3b0-03c2-428e-be3f-b7e85fea0ced")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U10")
 					(unit 1)
@@ -20404,7 +20404,7 @@
 			(uuid "ba682b3a-3cc3-4aba-aa09-891125d6621e")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C16")
 					(unit 1)
@@ -20483,7 +20483,7 @@
 			(uuid "6baf6507-f799-438b-b313-5bddfc0f03d1")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "R11")
 					(unit 1)
@@ -20602,7 +20602,7 @@
 			(uuid "a1c3701b-1e63-4667-867d-bd55cd6a7c1d")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "LED2")
 					(unit 1)
@@ -20680,7 +20680,7 @@
 			(uuid "78f48dd2-6359-4cda-b7f7-b1391187fc88")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR019")
 					(unit 1)
@@ -20761,7 +20761,7 @@
 			(uuid "d70bd9e4-d3b6-4770-a762-71955be6241c")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C15")
 					(unit 1)
@@ -20839,7 +20839,7 @@
 			(uuid "7902d87c-92ef-4ea5-ac63-c019cd63b222")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR015")
 					(unit 1)
@@ -20917,7 +20917,7 @@
 			(uuid "846539c9-9255-4e3e-8f2d-84ebea04d313")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "#PWR03")
 					(unit 1)
@@ -20998,7 +20998,7 @@
 			(uuid "93eaab84-4f9c-4f6a-a1e5-be5e31b8a280")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C11")
 					(unit 1)
@@ -21123,7 +21123,7 @@
 			(uuid "97c04bbb-deb7-41e0-8d59-151fe17ff1ba")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "U8")
 					(unit 1)
@@ -21204,7 +21204,7 @@
 			(uuid "dc7c46d1-352e-40c7-b8ac-f59202c76130")
 		)
 		(instances
-			(project "ESP32C3_MEGA"
+			(project "CANNONBALL"
 				(path "/6b3c5351-c33e-4c5c-b27d-d882bf4a5f34"
 					(reference "C17")
 					(unit 1)
