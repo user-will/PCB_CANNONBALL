@@ -20,3 +20,5 @@ fp-info-cache
 # OS files
 .DS_Store
 Thumbs.db
+/analysis/
+.claude-flow
