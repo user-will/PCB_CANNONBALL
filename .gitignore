@@ -17,6 +17,9 @@
 fp-info-cache
 *.kicad_prl
 
+# Production files (Gerbers, drill files)
+production_files/
+
 # OS files
 .DS_Store
 Thumbs.db
