@@ -41,7 +41,7 @@ The big pitch: pull a single-cell LiPo or Li-ion from an old vape, plug it into 
 |------|----------|-------|
 | 3 | MAX17048 alert | Active-low interrupt when battery is low |
 | 4 | SK6812 data | Addressable LED data line |
-| 5 | LED enable (MOSFET) | Pull **low** to enable LEDs, high to disable |
+| 5 | LED enable (MOSFET) | Pull **high** to enable LEDs, low to disable |
 | 10 | BQ24075 EN1 (charge rate) | Pull **high** to increase charge current from 100 mA to 500 mA |
 
 ---
@@ -60,7 +60,7 @@ The big pitch: pull a single-cell LiPo or Li-ion from an old vape, plug it into 
 | U8 | LSM6DS3 | 6-axis IMU (I2C) |
 | U9 | SHT40 | Temperature & humidity sensor (I2C) |
 | U10 | VEML6030 | Ambient light sensor (I2C) |
-| Q1 | DMG2301L | P-channel MOSFET (LED power switch) |
+| Q3 | 2N7002K | N-channel MOSFET (LED power switch) |
 | LED1+ | SK6812-EC20 | Addressable RGB LEDs |
 
 ---
