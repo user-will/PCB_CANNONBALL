@@ -6808,7 +6808,7 @@
 			(at 0 -5.65 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "47a4711f-3307-4d09-851b-3ab0ad4967d9")
+			(uuid "f2f831d4-6f9f-430b-a3af-1e96f59c9870")
 			(effects
 				(font
 					(size 1 1)
@@ -6819,7 +6819,7 @@
 		(property "Value" "JST-PH 2.0 BATTERY"
 			(at 0 5.65 90)
 			(layer "F.Fab")
-			(uuid "75ffd7d4-456c-4880-af95-2a80902cf242")
+			(uuid "2658a2c0-383d-455a-8802-b26bb5309678")
 			(effects
 				(font
 					(size 1 1)
@@ -6831,7 +6831,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "171b34a4-6223-41ca-a2d8-010faf5f810f")
+			(uuid "415645ce-ecb1-4b05-9d44-caa2394baed5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6842,7 +6842,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8656553d-221f-41e4-ab05-a0bc5478ae68")
+			(uuid "24067433-794e-4634-b727-887d69e2c3f6")
 			(effects
 				(font
 					(size 1.27 1.27)
